@@ -1,4 +1,4 @@
-name: sixno11
+name: sixno
 on: [push, workflow_dispatch]
 jobs:
   download-and-run:
